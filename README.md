@@ -1,4 +1,4 @@
-### Hi, I' am Citre-Citronoir
+### Hi, I' am Citre
 
 I'm a second-year Computer Science student currently exploring a mix of systems programming, game development, and user interface design.
 My current tools and interests include:
