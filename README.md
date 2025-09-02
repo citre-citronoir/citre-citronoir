@@ -4,7 +4,7 @@ I'm a second-year Computer Science student currently exploring a mix of systems 
 My current tools and interests include:
 - **Languages:** C, C++, Rust (learning)
 - **Areas of Interest:** Game development, systems programming, GUI/UI design
-- **Tools:** CLion, IntelliJ, Zed, macOS M4
+- **Tools:** CLion, IntelliJ, Zed
 
 I split my time between university coursework and personal coding projects.
 Right now, I’m experimenting with Rust, and learning how systems and games are built from the ground up.
